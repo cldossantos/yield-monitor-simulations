@@ -1,8 +1,8 @@
 # Yield Monitor Simulations
 
 This repository holds the data for the code and
-data used in manuscript <MANUSCRIPT TITLE AND DOI
-GO HERE>. 
+data used in manuscript **MANUSCRIPT TITLE AND DOI
+GO HERE**. 
 
 ## Data description
 
