@@ -7,6 +7,9 @@ library(ggplot2)
 library(sf)
 library(terra)
 
+## setting up the processed-data folder
+dir.create('processed-data')
+
 ## setting the number of cores
 cores <- 6
 
