@@ -1,8 +1,9 @@
 # Yield Monitor Simulations
 
 This repository holds the data for the code and
-data used in manuscript **MANUSCRIPT TITLE AND DOI
-GO HERE**. 
+data used in manuscript "A Comparative Study of
+Yield Monitor Data Processing Methods for On-Farm
+Agronomic Trials". 
 
 ## Data description
 
