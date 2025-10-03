@@ -16,3 +16,6 @@ and centered around Ames, Iowa (-93.62037,
 
 
 
+## Manuscript 
+
+The manuscript supported by this repository can be found [here](https://doi.org/10.1002/agj2.70168). 
